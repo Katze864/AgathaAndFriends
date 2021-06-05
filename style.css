@@ -1,0 +1,17 @@
+html{
+	font-family: Comic Sans MS,sans-serif;
+	width: 70%;
+	height: 70%;
+	margin: auto auto;
+}
+
+h1{
+	font-size: 30pt;
+	color: black;
+	text-decoration: underline;
+	text-align: center;
+}
+
+body{
+	background: rgba(200,200,200,255);
+}
