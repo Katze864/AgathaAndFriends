@@ -1,5 +1,5 @@
 html{
-	font-family: Comic Sans MS,sans-serif;
+	font-family: sans-serif;
 	width: 70%;
 	height: 70%;
 	margin: auto auto;
@@ -12,6 +12,11 @@ h1{
 	text-align: center;
 }
 
+Bild{
+	border-radius: 5px;
+	width: 50%;
+}
+
 body{
-	background: rgba(200,200,200,255);
+	background: rgba(240,240,240,255);
 }
